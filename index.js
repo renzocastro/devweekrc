@@ -1,1 +1,5 @@
-export const sumar = (...numeros) => numeros.reduce((a, b) => a + b);
+const sumar = (...numeros) => numeros.reduce((a, b) => a + b);
+
+module.exports = {
+  sumar
+};
