@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzocastro/devweekrc.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Renzo Castro (renzo.vista@gmail.com)",
   "license": "ISC"
 }
